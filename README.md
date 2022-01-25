@@ -4,12 +4,6 @@
 
 **Mobile:  +91 – 7058348587**
 
-**Career Objective**
-
-
-
-Seeking a position in an employee oriented environment that recognizes efforts and talent; and encourages with professional growth with learning while being resourceful and innovative.
-
 **Experience Summary**
 
 - 6.3+ Years of Professional experience in developing PHP based portals and applications.
