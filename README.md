@@ -39,7 +39,7 @@
 
 **Employment Details**
 
-**1. Xento System / Entrata Inc. (09 March 2020 – Till Date)** (<https://www.entrata.com>)
+**1. Xento System / Entrata India. (09 March 2020 – Till Date)** (<https://www.entrata.com>)
 
 **Role:** Software Engineer
 
