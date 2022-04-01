@@ -6,7 +6,7 @@
 
 **Experience Summary**
 
-- 6.3+ Years of Professional experience in developing PHP based portals and applications.
+- 7+ Years of Professional experience in developing PHP based portals and applications.
 - Extensive Knowledge of PHP, MYSQL, HTML 5, JavaScript, CSS 3 and jquery, Laravel, Yii Framework, Angular 8, Python basic concepts
 - Willing and Capable to explore and learn new technology.
 - Positive approach in problem solving and good interpersonal Skills.
@@ -47,18 +47,15 @@
 
 **Responsibilities:**
 
-- Perfect syntax use in code
-- Ability to learn business requirements
-- Ability to learn coding techniques taught to you by senior employees
-- Review, to the extent possible, changes in code and the environment that will affect system performance.
-- To get command on the architecture and understand the business logic with technical complications
-- Able to clearly understand the requirement and code with minimal supervision
-- Excellent Debugging skills & diagnostic tools
-- Escalate the coding issue to immediate manager and try to solve it
-- Ability to solve problems quickly and completely.
-- Expert on server side technology and should have maximum understanding of client side technology
-- Bind their system knowledge with the code. ( Multiple Module/ Application Level )
-- Product knowledge on which you are working on
+- Researching, designing, implementing, and managing software programs.
+- Testing and evaluating new programs
+- Identifying areas for modification in existing programs and subsequently developing these modifications
+- Writing and implementing efficient code
+- Determining operational practicality
+- Developing quality assurance procedures
+- Maintaining and upgrading existing systems
+- Training users
+- Working closely with other developers, UX designers.
 
 **2. MAK Online Solutions, Solapur(7 Dec 2016 – 20 Feb 2020)** (<https://makonlinesolutions.com>)
 
@@ -153,7 +150,3 @@ Place:								**(Samadhan Nirali)**
 Date:**                                                     
 
 
-
-|4||
-| -: | :- |
-PHP Developer with 4.6+ Years’ Experience                                samadhan.nirali@gmail.com
