@@ -26,7 +26,7 @@
 |**Languages**|C,C++,Data Structure|
 |**Databases**|MySQL , Oracle|
 |**Web Design  & Development**        |PHP 7.\*, CSS 3, JavaScript, HTML 5, JQuery, Bootstrap, Yii,Laravel, Angular8|
-|**Server**|AWS server |
+|**Cloud**|AWS, Google |
 
 
 **Frameworks:**
